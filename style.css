@@ -1,0 +1,30 @@
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;  
+}
+
+  .input-padrao {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    width: 50%;  
+  }
+
+h1 {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+body{
+  background: linear-gradient(#4B05D6, #1a69DD, #15adcb, #00d1e0);
+  
+}
+
+.logo {
+  width: 140px;
+  margin-left: 600px;
+  border-radius: 100px;
+}
+
+
